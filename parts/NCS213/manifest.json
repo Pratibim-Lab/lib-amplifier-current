@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/NCS213:NCS213",
+  "name": "NCS213",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/NCS213.kicad_sym",
+  "description": "Current-Shunt Monitor, Voltage Output, Bi-Directional Zero-Drift, 50V/V Gain, SC-70-6",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF",
+  "keywords": "Current shunt monitor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "NCS210",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/NCS213/",
+  "part_path": "parts/NCS213",
+  "symbol_file": "parts/NCS213/NCS213.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:16.086Z"
+}

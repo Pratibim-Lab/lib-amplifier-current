@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/ZXCT1009T8:ZXCT1009T8",
+  "name": "ZXCT1009T8",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/ZXCT1009T8.kicad_sym",
+  "description": "High-Side Current Monitor, SM8",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ZXCT1009.pdf",
+  "keywords": "High side current monitor shunt",
+  "footprint": "Package_SO:Zetex_SM8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/ZXCT1009T8/",
+  "part_path": "parts/ZXCT1009T8",
+  "symbol_file": "parts/ZXCT1009T8/ZXCT1009T8.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:22.881Z"
+}

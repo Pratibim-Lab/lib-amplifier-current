@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8205:AD8205",
+  "name": "AD8205",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8205.kicad_sym",
+  "description": "65V Single-Supply, System Difference Amplifier, 50V/V gain, bandwidth 50kHz, Vcc=5V, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8205.pdf",
+  "keywords": "highside HS difference amplifier linear buffered",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "AD8210",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8205/",
+  "part_path": "parts/AD8205",
+  "symbol_file": "parts/AD8205/AD8205.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:01.465Z"
+}

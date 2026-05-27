@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA198:INA198",
+  "name": "INA198",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA198.kicad_sym",
+  "description": "Current Shunt Monitor −16V to +80V Common-Mode Range, 100V/V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina193.pdf",
+  "keywords": "current sense shunt monitor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "INA196",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA198/",
+  "part_path": "parts/INA198",
+  "symbol_file": "parts/INA198/INA198.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:37.384Z"
+}

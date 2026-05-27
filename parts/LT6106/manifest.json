@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/LT6106:LT6106",
+  "name": "LT6106",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/LT6106.kicad_sym",
+  "description": "36V Low Cost, High Side Current Sense, SOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6106fb.pdf",
+  "keywords": "current sense",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/LT6106/",
+  "part_path": "parts/LT6106",
+  "symbol_file": "parts/LT6106/LT6106.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:59.634Z"
+}

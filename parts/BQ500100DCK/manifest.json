@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/BQ500100DCK:BQ500100DCK",
+  "name": "BQ500100DCK",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/BQ500100DCK.kicad_sym",
+  "description": "20V High side current sensor, Voltage Output, 50V/V Gain, SC-70-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq500100.pdf",
+  "keywords": "Current shunt monitor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/BQ500100DCK/",
+  "part_path": "parts/BQ500100DCK",
+  "symbol_file": "parts/BQ500100DCK/BQ500100DCK.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:17.986Z"
+}

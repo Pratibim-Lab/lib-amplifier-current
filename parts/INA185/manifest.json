@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA185:INA185",
+  "name": "INA185",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA185.kicad_sym",
+  "description": "Ultra-small, bidirectional, precision low-side and high-side, voltage output current-sense amplifier (SOT-563)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina185.pdf",
+  "keywords": "current monitor shunt sensor bidirectional",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "INA181",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA185/",
+  "part_path": "parts/INA185",
+  "symbol_file": "parts/INA185/INA185.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:31.400Z"
+}

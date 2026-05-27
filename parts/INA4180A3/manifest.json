@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA4180A3:INA4180A3",
+  "name": "INA4180A3",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA4180A3.kicad_sym",
+  "description": "Quad current sense amplifier, Rail-to-Rail, 26V, Gain 100 V/V, TSSOP-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina4180.pdf",
+  "keywords": "monitor shunt sensor texas",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "INA4180A1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA4180A3/",
+  "part_path": "parts/INA4180A3",
+  "symbol_file": "parts/INA4180A3/INA4180A3.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:56.603Z"
+}

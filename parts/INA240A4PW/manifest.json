@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA240A4PW:INA240A4PW",
+  "name": "INA240A4PW",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA240A4PW.kicad_sym",
+  "description": "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 200V/V, TSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina240.pdf",
+  "keywords": "current monitor shunt sensor bidirectional high low",
+  "footprint": "Package_SO:TSSOP-8_4.4x3mm_P0.65mm",
+  "extends": "INA240A1PW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA240A4PW/",
+  "part_path": "parts/INA240A4PW",
+  "symbol_file": "parts/INA240A4PW/INA240A4PW.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:53.308Z"
+}

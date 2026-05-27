@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA225:INA225",
+  "name": "INA225",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA225.kicad_sym",
+  "description": "36-V, Bidirectional Current Sense Amplifier, With Four Pin-Selectable Gain Settings, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina225-q1.pdf",
+  "keywords": "voltage-output current-sense amplifier shunt",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA225/",
+  "part_path": "parts/INA225",
+  "symbol_file": "parts/INA225/INA225.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:45.325Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA180A2:INA180A2",
+  "name": "INA180A2",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA180A2.kicad_sym",
+  "description": "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina180.pdf",
+  "keywords": "current monitor shunt sensor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "INA180A1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA180A2/",
+  "part_path": "parts/INA180A2",
+  "symbol_file": "parts/INA180A2/INA180A2.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:23.673Z"
+}

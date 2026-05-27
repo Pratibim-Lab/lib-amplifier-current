@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA253:INA253",
+  "name": "INA253",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA253.kicad_sym",
+  "description": "High Voltage, Bidirectional, Zero-Drift, Current-ShuntMonitor With Integrated, 2-mΩ, Precision, Low Inductive Shunt Resistor, TSSOP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina253.pdf",
+  "keywords": "shunt current amplifier bidirectional",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA253/",
+  "part_path": "parts/INA253",
+  "symbol_file": "parts/INA253/INA253.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:23.906Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA283:INA283",
+  "name": "INA283",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA283.kicad_sym",
+  "description": "High-Accuracy, Wide Common-Mode Range, Bidirectional Current Shunt Monitors, Zero-Drift Series, 200V/V, SOIC-8/VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina282.pdf",
+  "keywords": "current monitor shunt sensor bidirectional",
+  "footprint": "",
+  "extends": "INA282",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA283/",
+  "part_path": "parts/INA283",
+  "symbol_file": "parts/INA283/INA283.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:35.796Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA200DGK:INA200DGK",
+  "name": "INA200DGK",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA200DGK.kicad_sym",
+  "description": "Current Shunt Monitor, integrated comparator and reference, -16V to +80V Common-Mode Range, 20V/V, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina201.pdf",
+  "keywords": "current-sense amplifier fixed-gain high-side low-side",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "INA200D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA200DGK/",
+  "part_path": "parts/INA200DGK",
+  "symbol_file": "parts/INA200DGK/INA200DGK.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:40.394Z"
+}

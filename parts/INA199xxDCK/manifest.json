@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA199xxDCK:INA199xxDCK",
+  "name": "INA199xxDCK",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA199xxDCK.kicad_sym",
+  "description": "INA199 26-V, Bidirectional, Zero-Drift, Low- or High-Side, Voltage-Output, Current-Shunt Monitor, SOT-363, SC-70",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina199.pdf",
+  "keywords": "current monitor shunt sensor bidirectional",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA199xxDCK/",
+  "part_path": "parts/INA199xxDCK",
+  "symbol_file": "parts/INA199xxDCK/INA199xxDCK.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:38.365Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA201D:INA201D",
+  "name": "INA201D",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA201D.kicad_sym",
+  "description": "Current Shunt Monitor, integrated comparator and reference, -16V to +80V Common-Mode Range, 50V/V, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina201.pdf",
+  "keywords": "current-sense amplifier fixed-gain high-side low-side",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "INA200D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA201D/",
+  "part_path": "parts/INA201D",
+  "symbol_file": "parts/INA201D/INA201D.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:41.431Z"
+}

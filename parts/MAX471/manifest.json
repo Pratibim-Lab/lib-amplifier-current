@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/MAX471:MAX471",
+  "name": "MAX471",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/MAX471.kicad_sym",
+  "description": "Precision, High-Side, Current-Sense Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://pdfserv.maximintegrated.com/en/ds/MAX471-MAX472.pdf",
+  "keywords": "current sense amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/MAX471/",
+  "part_path": "parts/MAX471",
+  "symbol_file": "parts/MAX471/MAX471.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:12.084Z"
+}

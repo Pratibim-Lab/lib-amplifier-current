@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8418:AD8418",
+  "name": "AD8418",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8418.kicad_sym",
+  "description": "70V Bidirectional, Zero Drift, Current Sense Amplifier, 20V/V gain, bandwidth 250kHz, VS=2.7V~5.5V, SOIC-8/MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8418.pdf",
+  "keywords": "highside HS current sense amplifier linear",
+  "footprint": "",
+  "extends": "AD8417",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8418/",
+  "part_path": "parts/AD8418",
+  "symbol_file": "parts/AD8418/AD8418.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:17.009Z"
+}

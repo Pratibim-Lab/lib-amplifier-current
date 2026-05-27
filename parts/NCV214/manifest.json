@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/NCV214:NCV214",
+  "name": "NCV214",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/NCV214.kicad_sym",
+  "description": "Current-Shunt Monitor, Voltage Output, Bi-Directional Zero-Drift, 100V/V Gain, SC-70-6",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF",
+  "keywords": "Current shunt monitor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "NCS210",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/NCV214/",
+  "part_path": "parts/NCV214",
+  "symbol_file": "parts/NCV214/NCV214.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:20.990Z"
+}

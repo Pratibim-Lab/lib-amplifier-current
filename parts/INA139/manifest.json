@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA139:INA139",
+  "name": "INA139",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA139.kicad_sym",
+  "description": "High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina169.pdf",
+  "keywords": "current sense shunt monitor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "INA138",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA139/",
+  "part_path": "parts/INA139",
+  "symbol_file": "parts/INA139/INA139.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:19.912Z"
+}

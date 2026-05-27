@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/MAX4080S:MAX4080S",
+  "name": "MAX4080S",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/MAX4080S.kicad_sym",
+  "description": "76V, High-Side, Current-Sense Amplifiers with Voltage Output, Undirectional, 60V/V Gain, SOIC-8/uMAX-8",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX4080-MAX4081.pdf",
+  "keywords": "current sense amplifier",
+  "footprint": "",
+  "extends": "MAX4080F",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/MAX4080S/",
+  "part_path": "parts/MAX4080S",
+  "symbol_file": "parts/MAX4080S/MAX4080S.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:07.242Z"
+}

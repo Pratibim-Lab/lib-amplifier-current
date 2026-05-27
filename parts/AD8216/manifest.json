@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8216:AD8216",
+  "name": "AD8216",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8216.kicad_sym",
+  "description": "65V High Bandwidth, Bidirectional Difference Amplifier, 3V/V gain, bandwidth 3MHz, Vcc=5V, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8216.pdf",
+  "keywords": "HS difference amplifier linear",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "AD8210",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8216/",
+  "part_path": "parts/AD8216",
+  "symbol_file": "parts/AD8216/AD8216.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:10.813Z"
+}

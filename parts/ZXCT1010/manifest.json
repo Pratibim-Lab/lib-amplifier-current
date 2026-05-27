@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/ZXCT1010:ZXCT1010",
+  "name": "ZXCT1010",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/ZXCT1010.kicad_sym",
+  "description": "Enhanced High-Side Current Monitors, SOT-23-5",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ZXCT1010.pdf",
+  "keywords": "High side current monitor shunt",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/ZXCT1010/",
+  "part_path": "parts/ZXCT1010",
+  "symbol_file": "parts/ZXCT1010/ZXCT1010.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:23.877Z"
+}

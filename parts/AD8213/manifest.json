@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8213:AD8213",
+  "name": "AD8213",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8213.kicad_sym",
+  "description": "65V Dual, High Voltage, Current Shunt Monitor, 20V/V gain, bandwidth 500kHz, Vcc=5V, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8213.pdf",
+  "keywords": "highside HS current sense amplifier linear buffered dual monitor",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8213/",
+  "part_path": "parts/AD8213",
+  "symbol_file": "parts/AD8213/AD8213.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:08.689Z"
+}

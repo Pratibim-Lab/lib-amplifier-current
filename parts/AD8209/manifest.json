@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8209:AD8209",
+  "name": "AD8209",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8209.kicad_sym",
+  "description": "45V High Voltage, Precision Difference Amplifier, 7V/V x 2V/V adjustable gain, bandwidth 80kHz, Vcc=5V, unidirectional, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8209.pdf",
+  "keywords": "highside HS current sense amplifier linear buffered monitor preamp",
+  "footprint": "",
+  "extends": "AD8203",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8209/",
+  "part_path": "parts/AD8209",
+  "symbol_file": "parts/AD8209/AD8209.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:31:04.483Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/LTC6102HVxDD:LTC6102HVxDD",
+  "name": "LTC6102HVxDD",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/LTC6102HVxDD.kicad_sym",
+  "description": "Precision Zero Drift Current Sense Amplifier, 100V, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6102fe.pdf",
+  "keywords": "current sense amplifier",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "LTC6102xDD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/LTC6102HVxDD/",
+  "part_path": "parts/LTC6102HVxDD",
+  "symbol_file": "parts/LTC6102HVxDD/LTC6102HVxDD.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:00.597Z"
+}

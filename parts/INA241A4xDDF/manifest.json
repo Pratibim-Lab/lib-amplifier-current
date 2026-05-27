@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA241A4xDDF:INA241A4xDDF",
+  "name": "INA241A4xDDF",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA241A4xDDF.kicad_sym",
+  "description": "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 100V/V, ±0.01% Gain Accuracy, ±10 μV Offset Voltage, SOT-23-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina241b.pdf",
+  "keywords": "current monitor shunt sensor bidirectional high low",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-8",
+  "extends": "INA240A1D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA241A4xDDF/",
+  "part_path": "parts/INA241A4xDDF",
+  "symbol_file": "parts/INA241A4xDDF/INA241A4xDDF.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:04.016Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/INA280A5xDCK:INA280A5xDCK",
+  "name": "INA280A5xDCK",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/INA280A5xDCK.kicad_sym",
+  "description": "Current Sense Amplifier, 2.7-V to 120-V Common Mode, 1.1-MHz, Gain 500 V/V, SC-70",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina280.pdf",
+  "keywords": "monitor shunt sensor",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "INA196",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/INA280A5xDCK/",
+  "part_path": "parts/INA280A5xDCK",
+  "symbol_file": "parts/INA280A5xDCK/INA280A5xDCK.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:32:28.772Z"
+}

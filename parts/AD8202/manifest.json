@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Current/AD8202:AD8202",
+  "name": "AD8202",
+  "library": "Amplifier_Current",
+  "file": "Amplifier_Current.kicad_symdir/AD8202.kicad_sym",
+  "description": "28V High Common-Mode Voltage, Single-Supply Difference Amplifier, 10V/V x 2V/V adjustable gain, bandwidth 50kHz, Vcc=3.5V~12V, unidirectional, SOIC-8/MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8202.pdf",
+  "keywords": "highside HS current sense amplifier linear buffered monitor preamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-current@master/parts/AD8202/",
+  "part_path": "parts/AD8202",
+  "symbol_file": "parts/AD8202/AD8202.kicad_sym",
+  "source_library": "Amplifier_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:59.372Z"
+}
